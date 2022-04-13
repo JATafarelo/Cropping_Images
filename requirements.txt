@@ -1,0 +1,2 @@
+django==4.0.3
+django-image-cropping==1.7
